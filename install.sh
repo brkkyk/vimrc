@@ -13,8 +13,8 @@ else
 	rm -rf ~/.vimrc.backup
         mv ~/.vim ~/.vim.backup
     fi
-    cp vimrc ~/.vimrc
-    cp -r vim ~/.vim
+    cp ~/.puffin_vimrc/vimrc ~/.vimrc
+    cp -r ~/.puffin_vimrc/vim ~/.vim
     echo "puffin vimrc successfully installed :)"
 fi
 echo "\nfeel free to make pull request: www.github.com/brkkyk/vimrc"
