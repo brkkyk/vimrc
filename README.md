@@ -2,7 +2,7 @@
 curiosity killed the vim - the incredible, superb lightweight puffin vimrc :)
 
 ## screenshot
-![puffin vimrc](http://i.imgur.com/uip5bx3.png)
+![puffin vimrc](http://i.imgur.com/1vWHUvh.png)
 ## what's included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen)
 * [ack.vim](https://github.com/mileszs/ack.vim)
@@ -49,3 +49,9 @@ sh ~/.puffin_vimrc/install.sh
 ```bash
 gcc
 ```
+## how to uninstall :(
+```bash
+sh ~/.puffin_vimrc/uninstall.sh
+```
+## contribution
+### feel free to make pull requests :)
