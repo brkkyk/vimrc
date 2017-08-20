@@ -25,27 +25,27 @@ git clone git://github.com/brkkyk/vimrc.git ~/.puffin_vimrc
 sh ~/.puffin_vimrc/install.sh
 ```
 ## shortcuts
-### open new tab
+#### open new tab
 ```bash
 ,tn
 ```
-### switch between tabs
+#### switch between tabs
 ```bash
 ,t[1-9]
 ```
-### open/close nerdtree (tree view in current folder)
+#### open/close nerdtree (tree view in current folder)
 ```bash
 ,nn
 ```
-### open ctrlp (search in current folder)
+#### open ctrlp (search in current folder)
 ```bash
 ,j
 ```
-### open ack (full-text search in current folder)
+#### open ack (full-text search in current folder)
 ```bash
 ,g
 ```
-### comment toggle current line
+#### comment toggle current line
 ```bash
 gcc
 ```
@@ -54,4 +54,4 @@ gcc
 sh ~/.puffin_vimrc/uninstall.sh
 ```
 ## contribution
-### feel free to make pull requests :)
+#### feel free to make pull requests :)
