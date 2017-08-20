@@ -33,6 +33,14 @@ sh ~/.puffin_vimrc/install.sh
 ```bash
 ,t[1-9]
 ```
+#### save current file
+```bash
+,w
+```
+#### quit current tab
+```bash
+,q
+```
 #### open/close nerdtree (tree view in current folder)
 ```bash
 ,nn
