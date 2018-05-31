@@ -51,3 +51,6 @@ let g:javascript_plugin_flow = 1
 
 " Remove restrict on only jsx extension highlighting
 let g:jsx_ext_required = 0
+
+" Ignore node_modules, git and DS_Store for CtrlP plugin
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
