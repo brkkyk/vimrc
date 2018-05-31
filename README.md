@@ -17,7 +17,7 @@ curiosity killed the vim - the incredible, superb lightweight puffin vimrc :)
 first of all, install ack:
 ```bash
 brew install ack
-sudo apt-get install ack
+sudo apt-get install ack-grep
 ```
 then
 ```bash
