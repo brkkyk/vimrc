@@ -40,3 +40,14 @@ map ,g :Ack
 map ,tn :tabnew <CR>
 " :tabnext switch between tabs ',t,[1-9]'
 map ,t, :tabnext
+
+
+" Enables syntax highlighting for JSDocs.
+let g:javascript_plugin_jsdoc = 1
+" Enables some additional syntax highlighting for NGDocs.
+let g:javascript_plugin_ngdoc = 1
+" Enables syntax highlighting for Flow.
+let g:javascript_plugin_flow = 1
+
+" Remove restrict on only jsx extension highlighting
+let g:jsx_ext_required = 0
