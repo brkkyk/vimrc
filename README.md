@@ -5,7 +5,7 @@ curiosity killed the vim - the incredible, superb lightweight puffin vimrc :)
 ![puffin vimrc](http://i.imgur.com/1vWHUvh.png)
 ## what's included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen)
-* [ack.vim](https://github.com/mileszs/ack.vim)
+* [vim-ripgrep](https://github.com/jremmen/vim-ripgrep)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim)
 * [nerdtree](https://github.com/scrooloose/nerdtree)
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter)
