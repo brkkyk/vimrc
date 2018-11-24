@@ -17,4 +17,5 @@ else
     cp -r ~/.puffin_vimrc/vim ~/.vim
     echo "puffin vimrc successfully installed :)"
 fi
-echo "\nfeel free to make pull request: www.github.com/brkkyk/vimrc"
+echo "\nfeel free to make pull request: github.com/brkkyk/vimrc"
+echo "\ncontact me at brkkyk@gmail.com"

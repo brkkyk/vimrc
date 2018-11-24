@@ -34,8 +34,8 @@ map ,j :CtrlP <CR>
 map ,w :w <CR> 
 " :q quit vim mapping to ',q'
 map ,q :q <CR>
-" :Ack superb full-text search mapping to ',g'
-map ,g :Ack 
+" :Rg superb full-text search mapping to ',g'
+map ,g :Rg 
 " :tabnew open new tab ',tn'
 map ,tn :tabnew <CR>
 " :tabnext switch between tabs ',t,[1-9]'
@@ -54,3 +54,6 @@ let g:jsx_ext_required = 0
 
 " Ignore node_modules, git and DS_Store for CtrlP plugin
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+
+" Highlight results in ripgrep"
+let g:rg_highlight = 1

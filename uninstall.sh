@@ -7,4 +7,5 @@ if [ -f ~/.vim/puffin ]; then
 else
     echo "puffin vimrc not installed yet."
 fi
-echo "\nfeel free to make pull request: www.github.com/brkkyk/vimrc"
+echo "\nfeel free to make pull request: github.com/brkkyk/vimrc"
+echo "\ncontact me at brkkyk@gmail.com"

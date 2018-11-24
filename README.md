@@ -14,10 +14,10 @@ curiosity killed the vim - the incredible, superb lightweight puffin vimrc :)
 * [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 
 ## how to install
-first of all, install ack:
+first of all, install ripgrep:
 ```bash
-brew install ack
-sudo apt-get install ack-grep
+brew install ripgrep
+sudo apt-get install ripgrep
 ```
 then
 ```bash
@@ -49,7 +49,7 @@ sh ~/.puffin_vimrc/install.sh
 ```bash
 ,j
 ```
-#### open ack (full-text search in current folder)
+#### open ripgrep (full-text search in current folder)
 ```bash
 ,g
 ```
