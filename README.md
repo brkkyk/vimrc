@@ -12,6 +12,7 @@ curiosity killed the vim - the incredible, superb lightweight puffin vimrc :)
 * [syntastic](https://github.com/vim-syntastic/syntastic)
 * [vim-airline](https://github.com/vim-airline/vim-airline)
 * [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
+* [vim-go](https://github.com/fatih/vim-go)
 
 ## how to install
 first of all, install ripgrep:
