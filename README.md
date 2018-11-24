@@ -63,3 +63,5 @@ sh ~/.puffin_vimrc/uninstall.sh
 ```
 ## contribution
 #### feel free to make pull requests :)
+## contact me at
+#### brkkyk@gmail.com
