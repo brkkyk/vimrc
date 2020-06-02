@@ -59,7 +59,7 @@ let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 let g:rg_highlight = 1
 
 " Show line numbers
-:set number
+set number
 
 " Enable mouse support
-:set mouse=a
+set mouse=a
