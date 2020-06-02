@@ -13,7 +13,7 @@ execute pathogen#infect()
 filetype plugin indent on
 set backspace=indent,eol,start
 syntax on
-set guifont=Monaco:h12 noanti
+set guifont=Monaco:h12
 colorscheme jellybeans 
 " Make vim indent 2 spaces for ruby and scala files only
 filetype plugin indent on
@@ -57,3 +57,9 @@ let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 
 " Highlight results in ripgrep"
 let g:rg_highlight = 1
+
+" Show line numbers
+:set number
+
+" Enable mouse support
+:set mouse=a
