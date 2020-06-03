@@ -13,8 +13,10 @@ execute pathogen#infect()
 filetype plugin indent on
 set backspace=indent,eol,start
 syntax on
-set guifont=Monaco:h12
-colorscheme jellybeans 
+set t_Co=256
+set t_ut=
+colorscheme codedark
+let g:airline_theme = 'codedark'
 " Make vim indent 2 spaces for ruby and scala files only
 filetype plugin indent on
 set sw=4
