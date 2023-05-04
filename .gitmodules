@@ -1,0 +1,33 @@
+[submodule "vim/pack/puffin/start/YouCompleteMe"]
+	path = vim/pack/puffin/start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "vim/pack/puffin/start/fzf"]
+	path = vim/pack/puffin/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "vim/pack/puffin/start/fzf.vim"]
+	path = vim/pack/puffin/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "vim/pack/puffin/start/nerdcommenter"]
+	path = vim/pack/puffin/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "vim/pack/puffin/start/nerdtree"]
+	path = vim/pack/puffin/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "vim/pack/puffin/start/syntastic"]
+	path = vim/pack/puffin/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "vim/pack/puffin/start/vim-airline"]
+	path = vim/pack/puffin/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/pack/puffin/start/vim-go"]
+	path = vim/pack/puffin/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim/pack/puffin/start/vim-javascript"]
+	path = vim/pack/puffin/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/pack/puffin/start/vim-rails"]
+	path = vim/pack/puffin/start/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim/pack/themes/start/vim-code-dark"]
+	path = vim/pack/themes/start/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark.git
