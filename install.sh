@@ -13,9 +13,10 @@ else
 	rm -rf ~/.vimrc.backup
         mv ~/.vim ~/.vim.backup
     fi
+    echo "puffin vimrc installation started..."
     cp ~/.puffin_vimrc/vimrc ~/.vimrc
     cp -r ~/.puffin_vimrc/vim ~/.vim
+    echo "building YouCompleteMe"
+    python3 ~/.vim/pack/puffin/start/YouCompleteMe/install.py --all
     echo "puffin vimrc successfully installed :)"
 fi
-echo "\nfeel free to make pull request: github.com/brkkyk/vimrc"
-echo "\ncontact me at brkkyk@gmail.com"
