@@ -31,3 +31,12 @@
 [submodule "vim/pack/themes/start/vim-code-dark"]
 	path = vim/pack/themes/start/vim-code-dark
 	url = https://github.com/tomasiser/vim-code-dark.git
+[submodule "vim/pack/puffin/start/lsp-examples"]
+	path = vim/pack/puffin/start/lsp-examples
+	url = https://github.com/ycm-core/lsp-examples.git
+[submodule "vim/pack/puffin/start/coc.nvim"]
+	path = vim/pack/puffin/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "vim/pack/puffin/start/--force"]
+	path = vim/pack/puffin/start/--force
+	url = https://github.com/neoclide/coc.nvim.git

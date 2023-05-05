@@ -16,7 +16,7 @@ else
     echo "puffin vimrc installation started..."
     cp ~/.puffin_vimrc/vimrc ~/.vimrc
     cp -r ~/.puffin_vimrc/vim ~/.vim
-    echo "building YouCompleteMe"
-    python3 ~/.vim/pack/puffin/start/YouCompleteMe/install.py --all
+    echo "building Coc"
+    cd ~/.vim/pack/puffin/start/coc.nvim && yarn install
     echo "puffin vimrc successfully installed :)"
 fi
