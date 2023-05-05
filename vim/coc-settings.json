@@ -1,0 +1,6 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["*"],
+  "solargraph.formatting": true,
+  "solargraph.autoformat": true,
+  "solargraph.diagnostics": true
+}

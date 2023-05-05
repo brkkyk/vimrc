@@ -61,7 +61,7 @@ let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 let g:rg_highlight = 1
 
 " Coc completion
-let g:coc_global_extensions = ['coc-git',
+let g:coc_global_extensions = ['coc-git', 'coc-prettier',
 \    'coc-solargraph', 'coc-eslint', 'coc-html', 'coc-css',
 \    'coc-rust-analyzer', 'coc-rome', 'coc-copilot', 'coc-cmake']
 " Having longer updatetime (default is 4000 ms = 4s) leads to noticeable
